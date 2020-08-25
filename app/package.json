@@ -33,7 +33,7 @@
     "node": "12.x"
   },
   "repository": {
-    "url": "https://github.com/github-developer/octochat-aws"
+    "url": "https://github.com/vignesh-hu/octochat-aws"
   },
   "license": "MIT",
   "keywords": [
